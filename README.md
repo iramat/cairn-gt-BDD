@@ -15,11 +15,6 @@ The **CAI-RN Archaeometry Network** (*Compétences Archéométriques Interdiscip
 | GT | lien |
 |-----|--------|
 |GT BDD| [lien](#GT-BDD)|
-|GT Stats||
-|GT Savoir faire||
-|GT Métier||
-|GT 3D||
-|GT Sens||
 
 
 # GT BDD

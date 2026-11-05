@@ -26,7 +26,7 @@ Ces corpus seront accompagnés de métadonnées documentant leur état dans le f
 | Horaire | Description |
 |:--|:--|
 | **9h00** | Début de la journée |
-| **Matinée** | Présentations (30-40 min + discussion): <ul><li>référentiel **Céramiques**, par Valérie Merle et Florent Roux[^5]</li><li>référentiel **Métaux**, par Alexandre Disser et Thomas Huet[^6]</li><li> ----------- <em>Pause Café</em> ----------- </li><li>référentiel **Pigments**, par Matthieu Lebon[^7]</li><li>Le système d'information **SIAMOIS**, Miled Rousset et Gregory Bliault[^4]</li></ul> |
+| **Matinée** | Présentations (30-40 min + discussion): <ul><li>référentiel **Céramiques**, par Valérie Merle et Florent Roux[^5]</li><li>référentiel **Métaux**, par Alexandre Disser et Thomas Huet[^6]</li><li> ----------- <em>Pause Café</em> ----------- </li><li>référentiel **Pigments**, par Matthieu Lebon et Fabien Courtois[^7]</li><li>Le système d'information **SIAMOIS**, Miled Rousset et Gregory Bliault[^4]</li></ul> |
 | **12h30–14h00** | Déjeuner |
 | **Après-midi** | Session pratique (« *hands-on* ») centrée sur le travail collaboratif, le versionnage, la citabilité et la réutilisabilité des référentiels |
 | **17h00** | Fin de la journée |
